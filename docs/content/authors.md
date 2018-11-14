@@ -210,3 +210,7 @@ Contributors
   * buergi <patbuergi@gmx.de>
   * Florian Gamboeck <mail@floga.de>
   * Ralf Hemberger <10364191+rhemberger@users.noreply.github.com>
+  * Scott Edlund <sedlund@users.noreply.github.com>
+  * Erik Swanson <erik@retailnext.net>
+  * Jake Coggiano <jake@stripe.com>
+  * brused27 <brused27@noemailaddress>
